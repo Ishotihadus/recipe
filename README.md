@@ -6,6 +6,10 @@
 
 ## 目次
 
+### 和食
+
+- [なめこのみそ汁](https://github.com/Ishotihadus/recipe/blob/main/%E5%92%8C%E9%A3%9F/%E3%81%AA%E3%82%81%E3%81%93%E3%81%AE%E3%81%BF%E3%81%9D%E6%B1%81.md)
+
 ### 洋食
 
 - [オムライス](https://github.com/Ishotihadus/recipe/blob/main/%E6%B4%8B%E9%A3%9F/%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9.md)
