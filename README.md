@@ -37,7 +37,7 @@ Pull Request を作成してください。
 
 ### Issue、Pull Request の運用について
 
-自明と思われるもの以外については、イショティハドゥスが実際に調理した上で merge/close する。
+自明と思われるもの以外については、イショティハドゥスが実際に調理した上で merge/close します。
 
 ### Discussion について
 
