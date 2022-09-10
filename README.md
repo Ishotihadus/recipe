@@ -9,6 +9,7 @@
 ### 和食
 
 - [なめこのみそ汁](https://github.com/Ishotihadus/recipe/blob/main/%E5%92%8C%E9%A3%9F/%E3%81%AA%E3%82%81%E3%81%93%E3%81%AE%E3%81%BF%E3%81%9D%E6%B1%81.md)
+- [鶏もも肉と生姜のやつ](https://github.com/Ishotihadus/recipe/tree/main/%E5%92%8C%E9%A3%9F/%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89%E3%81%A8%E7%94%9F%E5%A7%9C%E3%81%AE%E3%82%84%E3%81%A4.md)
 - [鶏もも肉の照り焼き](https://github.com/Ishotihadus/recipe/blob/main/%E5%92%8C%E9%A3%9F/%E9%B6%8F%E3%82%82%E3%82%82%E8%82%89%E3%81%AE%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D.md)
 
 ### 洋食
