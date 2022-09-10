@@ -4,6 +4,12 @@
 
 活発な contribution を期待しています。新しいレシピ、改善レシピはどしどしご応募ください。
 
+## 目次
+
+### 洋食
+
+- [オムライス](https://github.com/Ishotihadus/recipe/blob/main/%E6%B4%8B%E9%A3%9F/%E3%82%AA%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%B9.md)
+
 ## What's this
 
 本 repository は[イショティハドゥス](https://twitter.com/Ishotihadus)が普段料理に使っているレシピを git のリポジトリにしたものです。
